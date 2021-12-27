@@ -19,11 +19,11 @@ Position is another CSS property that deals with alignment and organization of H
 
 <br>
 
-<img src="./justify-align-content.jpg" >
-<img src="./alignment-css.jpg" >
-<img src="./css-positioning.jpg" >
-<img src="./grid-cheatsheet.jpg" >
-<img src="./grid-overview.jpg" >
+<img src="./images/justify-align-content.jpg" >
+<img src="./images/alignment-css.jpg" >
+<img src="./images/css-positioning.jpg" >
+<img src="./images/grid-cheatsheet.jpg" >
+<img src="./images/grid-overview.jpg" >
 
 ---
 
