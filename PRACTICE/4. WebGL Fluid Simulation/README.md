@@ -10,8 +10,10 @@ WebGL is a JavaScript API for rendering interactive 2D and 3D graphics within an
 
 # VIDEO
 
-<video src="./assets/video [WebGL Fluid Simulation].mp4" />
+<!-- <video src="./assets/video [WebGL Fluid Simulation].mp4" /> -->
+https://user-images.githubusercontent.com/75727351/147627596-04b18613-dca3-4c9c-bf43-1c9cae9ddd36.mp4
 
 ---
+
 
 ## CREDITS: [Pavel Dobryakov](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
